@@ -1,0 +1,669 @@
+{
+  "Drug information": [
+    {
+      "radionuclide": "11C",
+      "ligand": "[11C]JNJ-54173717",
+      "target": "P2X7 receptor"
+    }
+  ],
+  "Journal Information": [
+    {
+      "auther": "Donatienne Van Weehaeghe et al.",
+      "year": "2019",
+      "journal": "EJNMMI",
+      "DOI": "10.1007/s00259-019-04369-6"
+    }
+  ],
+  "Subject information": [
+    {
+      "no.subjects": 11,
+      "Gender": {
+        "male": 5,
+        "female": 6
+      },
+      "Age": {
+        "average": 62,
+        "SD": 10
+      }
+    }
+  ],
+  "Parameters information": [
+    {
+      "method": "2TCM"
+    },
+    {
+      "Vt": {
+        "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": 3.3,
+            "Temporal lobe_SD": 0.7
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": 2.8,
+            "Cerebellum_SD": 0.5
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": 3.2,
+          "Frontal lobe_SD": 0.7
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": 3.3,
+          "Occipital lobe_SD": 0.7
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": 3.3,
+          "Parietal lobe_SD": 0.7
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "Composite cortical": {
+            "Composite cortical_mean":3.3,
+            "Composite cortical_SD":0.7
+          },
+          "Corpus callosum": {
+            "Corpus callosum_mean":3.4,
+            "Corpus callosum_SD":1.0
+          },
+          "Striatum": {
+            "Striatum_mean":3.6,
+            "Striatum_SD":1.0
+          }
+        }
+      },
+      "BPND": {
+         "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K1": {
+        "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K2":{
+         "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K3":{
+         "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K4":{
+         "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K1/K2": {
+        "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      },
+      "K3/K4": {
+        "Temporal": {
+          "Temporal lobe": {
+            "Temporal lobe_mean": null,
+            "Temporal lobe_SD": null
+          },
+          "Hippocampus": {
+            "Hippocampus_mean": null,
+            "Hippocampus_SD": null
+          },
+          "Amygdala": {
+            "Amygdala_mean": null,
+            "Amygdala_SD": null
+          }
+        },
+        "Posterior Fossa": {
+          "Cerebellum": {
+            "Cerebellum_mean": null,
+            "Cerebellum_SD": null
+          },
+          "Brainstem": {
+            "Midbrain": {
+              "Midbrain_mean": null,
+              "Midbrain_SD": null
+            },
+            "Pons": {
+              "Pons_mean": null,
+              "Pons_SD": null
+            }
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": {
+            "Insula_mean": null,
+            "Insula_SD": null
+          },
+          "Cingulate gyrus": {
+            "Cingulate gyrus_mean": null,
+            "Cingulate gyrus_SD": null
+          }
+        },
+        "Frontal lobe": {
+          "Frontal lobe_mean": null,
+          "Frontal lobe_SD": null
+        },
+        "Occipital lobe": {
+          "Occipital lobe_mean": null,
+          "Occipital lobe_SD": null
+        },
+        "Parietal lobe": {
+          "Parietal lobe_mean": null,
+          "Parietal lobe_SD": null
+        },
+        "Central Structure": {
+          "Caudate nucleus": {
+            "Caudate nucleus_mean": null,
+            "Caudate nucleus_SD": null
+          },
+          "Putamen": {
+            "Putamen_mean": null,
+            "Putamen_SD": null
+          },
+          "Thalamus": {
+            "Thalamus_mean": null,
+            "Thalamus_SD": null
+          },
+          "Pallidum": {
+            "Pallidum_mean": null,
+            "Pallidum_SD": null
+          }
+        },
+        "others": {
+          "": {
+            "_mean":null,
+            "_SD":null
+          }
+        }
+      }
+    }
+  ]
+}
