@@ -1,0 +1,299 @@
+{
+  "Drug data": [
+    {
+      "radionuclide": "18F",
+      "ligand": "18F-MK-9470",
+      "target": "cannabinoid subtype-1"
+    }
+  ],
+  "Journal data": [
+    {
+      "auther": "Sandra Marina Sanabria-Bohórquez et al.",
+      "year": "2010",
+      "journal": "EJNNMMI",
+      "DOI": "10.1007/s00259-009-1340-5"
+    }
+  ],
+  "Subject data": [
+    {
+      "no.subjects": 12,
+      "Gender": {
+        "male": 9,
+        "female": 3
+      },
+      "Age": {
+        "max": 56,
+        "min": 22
+      }
+    }
+  ],
+  "Parameters": [
+    {
+      "method": "2TCM"
+    },
+    {
+      "Vt": {
+        "Temporal": {
+          "Temporal lobe": 21.3,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": 15.8,
+          "Brainstem": {
+            "Midbrain": 14.1,
+            "Pons": 7.7
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": 22.4,
+        "Occipital lobe": 17.7,
+        "Parietal lobe": 21.6,
+        "Central Structure": {
+          "Caudate nucleus": 23.4,
+          "Putamen": 25.1,
+          "Thalamus": 12.6,
+          "Pallidum": null
+        },
+        "others": {
+          "White matter": 5.4
+        }
+      },
+      "BPND": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": null
+        }
+      },
+      "K1": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      },
+      "K2": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      },
+      "K3": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      },
+      "K4": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      },
+      "K1/K2": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      },
+      "K3/K4": {
+        "Temporal": {
+          "Temporal lobe": null,
+          "Hippocampus": null,
+          "Amygdala": null
+        },
+        "Posterior Fossa": {
+          "Cerebellum": null,
+          "Brainstem": {
+            "Midbrain": null,
+            "Pons": null
+          }
+        },
+        "Insula and Cingulate Gyri": {
+          "Insula": null,
+          "Cingulate gyrus": null
+        },
+        "Frontal lobe": null,
+        "Occipital lobe": null,
+        "Parietal lobe": null,
+        "Central Structure": {
+          "Caudate nucleus": null,
+          "Putamen": null,
+          "Thalamus": null,
+          "Pallidum": null
+        },
+        "others": {
+          "": ""
+        }
+      }
+    }
+  ],
+"Chemical and Physical Properties" : [
+ {
+      "Molecular weight": 488.6,
+      "XlogP3": 5.6,
+      "Hydrogen Bond Donar Count": 1,
+      "Hydrogen Bond Acceptor Count": 6,
+      "Rotatable Bond Count": 11,
+      "Exact Mass": 488.25,
+      "Monoisotopic Mass": 488.25,
+      "Topological Polar Surface Area": 84.2,
+      "Heavy Atom Count ": 36,
+      "Formal Charge": 0,
+      "Complexity": 731,
+      "Isotope Atom Stereocentor ": 1,
+      "Defined Atom Stereocenter Count": 2,
+      "Undefined Atom Stereocenter Count": 0,
+      "Defined Bond Stereocenter Count": 0,
+      "Undefined Bond Stereocenter Count": 0,
+      "Covalently-Bonded Unit Count": 1,
+      "Compound Is Canonicalized": "Yes "
+    }
+]
+}
